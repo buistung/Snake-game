@@ -14,4 +14,4 @@ python snake-game.py
 ```
 ## Controls
 - Arrow Keys: Move the snake in the desired direction
-- Q: Quit the game
+
